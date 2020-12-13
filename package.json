@@ -1,0 +1,18 @@
+{
+  "name": "digit_recognition",
+  "version": "1.0.0",
+  "description": "Handwritten digit recogniser using tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vinay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
